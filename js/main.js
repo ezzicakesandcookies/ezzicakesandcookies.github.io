@@ -9,6 +9,11 @@
             $('.navbar').removeClass('sticky-top');
         }
     });
+
+    $('.set-bg').each(function () {
+        var bg = $(this).data('setbg');
+        $(this).css('background-image', 'url(' + bg + ')');
+    });
     
     // Dropdown on mouse hover
     $(document).ready(function () {
