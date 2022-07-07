@@ -246,6 +246,11 @@ h6,
     background-size: cover;
 }
 
+.bg-hero {
+    background: linear-gradient(rgba(43, 40, 37, .9), rgba(43, 40, 37, .9)), url(../img/hero.jpg) center center no-repeat;
+    background-size: cover;
+}
+
 .bg-offer {
     background: linear-gradient(rgba(43, 40, 37, .9), rgba(43, 40, 37, .9)), url(../img/offer.jpg) center center no-repeat;
     background-size: cover;
