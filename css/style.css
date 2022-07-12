@@ -333,8 +333,20 @@ h6,
     border-width: 1px;
     border-color: lightgrey;
   }
+
+  .product__item .product__item__pic .product__label a {
+    border-style: solid !important;
+    border-width: 1px !important;
+    border-color: lightgrey !important;
+    border-radius: 2px !important;
+  }
   
   .product__item:hover .product__item__pic .product__label span {
+    background: var(--primary);
+    color: #ffffff;
+  }
+
+  .cart-btn:hover {
     background: var(--primary);
     color: #ffffff;
   }
