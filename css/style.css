@@ -347,11 +347,6 @@ h6,
     background: var(--primary);
     color: #ffffff;
   }
-
-  .product__item .product__item__pic .product__label a:hover {
-    background: var(--primary);
-    color: #ffffff;
-  }
   
   .product__item__pic {
     height: 350px;
