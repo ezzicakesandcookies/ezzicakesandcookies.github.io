@@ -335,6 +335,8 @@ h6,
   }
 
   .product__item .product__item__pic .product__label a {
+    font-size: 14px;
+    font-weight: 200;
     border-style: solid !important;
     border-width: 1px !important;
     border-color: lightgrey !important;
@@ -346,7 +348,7 @@ h6,
     color: #ffffff;
   }
 
-  .cart-btn:hover {
+  .product__item .product__item__pic .product__label a:hover {
     background: var(--primary);
     color: #ffffff;
   }
@@ -366,6 +368,10 @@ h6,
 
     .home-btn{
         font-size: 14px;
+    }
+
+    .product__item .product__item__pic .product__label a {
+        font-size: 13px;
     }
   }
 
