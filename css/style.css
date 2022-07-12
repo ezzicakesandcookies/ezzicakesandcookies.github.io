@@ -403,7 +403,7 @@ h6,
   .product__item:hover .product__item__text .product__item__price {
     font-weight: 900 !important;
   }
-
+/* 
   .product__item .product__item__pic{
     transition: 1s ease ;
     }
@@ -413,7 +413,7 @@ h6,
     -ms-transform: scale(1.05) ;
     transform: scale(1.05) ;
     transition: 1s ease ;
-    }
+    } */
 
     @media only screen and (max-width: 600px) {
         .product__item__pic {
