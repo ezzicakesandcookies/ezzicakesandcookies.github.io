@@ -10,6 +10,10 @@
     font-family: 'Pacifico', cursive;
 }
 
+.font-red{
+    color: #FF5D5D;
+}
+
 h1,
 h2,
 .font-weight-bold {
