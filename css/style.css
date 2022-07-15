@@ -433,9 +433,9 @@ h6,
     }
     
   .product__item:hover{
-    -webkit-transform: scale(1.04) ;
-    -ms-transform: scale(1.04) ;
-    transform: scale(1.04) ;
+    -webkit-transform: scale(1.55) ;
+    -ms-transform: scale(1.55) ;
+    transform: scale(1.55) ;
     transition: 1s ease ;
     }
 
